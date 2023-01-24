@@ -1,3 +1,5 @@
 # navbar-template
 
-I created a navabar template to help me with client projects
+Summary: This website was built to create a navbar template that could be implemented when creating websites for clients.
+
+Technologies Used: HTML, CSS
